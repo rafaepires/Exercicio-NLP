@@ -1,0 +1,2 @@
+model_checkpoint_path: "save_files"
+all_model_checkpoint_paths: "save_files"
